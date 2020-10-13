@@ -53,6 +53,7 @@ document**.
 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
+- [BibGuru](https://www.bibguru.com/) - Fast and ad-free way to make citations for your essay, project, or presentation. :bookmark:
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
